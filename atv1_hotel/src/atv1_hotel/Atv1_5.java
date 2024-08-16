@@ -1,5 +1,6 @@
 /*
-     
+
+ENUNCIADO:
      Monte um programa Java que mostre na tela em formato de tabela os
      quartos ocupados e os desocupados. Considere que o hotel tem 4 andares e 3
      quartos por andar. Primeiro, o usuário registrará os quartos ocupados,
@@ -15,7 +16,7 @@ package atv1_hotel;
 
 import java.util.Scanner;
 
-public class Atv1_4 {
+public class Atv1_5 {
 
     public static void main(String[] args) {
 

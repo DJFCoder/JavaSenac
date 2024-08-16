@@ -1,2 +1,3 @@
-# JavaSenac
-Atividades desenvolvidas para entrega em meu curso técnico.
+# Estudos JAVA - Senac
+
+-- Soluções/Resoluçoes desenvolvidas durante minha trilha de estudos.

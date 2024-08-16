@@ -1,3 +1,3 @@
-# Estudos JAVA - Senac
+# JAVA - Senac
 
--- Soluções/Resoluçoes desenvolvidas durante minha trilha de estudos.
+-- Solutions/Resolutions developed during my study path.
